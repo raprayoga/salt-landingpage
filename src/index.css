@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Rubik-Regular';
+  src: local('Rubik-Regular'), url(./assets/font/Rubik/static/Rubik-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik-Medium';
+  src: local('Rubik-Medium'), url(./assets/font/Rubik/static/Rubik-Medium.ttf) format('truetype');
+}
+
+body {
+  margin: 0;
+  font-family: Rubik-Regular, Arial, sans-serif !important;
+}
